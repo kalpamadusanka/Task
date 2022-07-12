@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/bg_overlay.xml" value="0.101" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/border.xml" value="0.101" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/borderitem.xml" value="0.101" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/bottom_navigation_selector.xml" value="0.125" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/imageborder.xml" value="0.1305" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/imgborder.xml" value="0.2065" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/indicator.xml" value="0.101" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/layout_bg.xml" value="0.101" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/notselected_tabitem.xml" value="0.126" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/statusnotshape.xml" value="0.125" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/statusshape.xml" value="0.126" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/tab_background.xml" value="0.125" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/drawable/tabitem.xml" value="0.125" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/layout/bottom_navigation.xml" value="0.10170940170940171" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/layout/image_slider_layout_item.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/layout/itemrecycler.xml" value="0.25" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/layout/layout_main.xml" value="0.12395833333333334" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/layout/recyclerview_item.xml" value="0.25" />
+        <entry key="..\:/Users/MAK/Downloads/Tasktest/Android-Image-Slider-master/app/src/main/res/menu/homemenu.xml" value="0.19895833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
